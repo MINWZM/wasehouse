@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GBK"?>
+<db>
+	<driver-name>com.mysql.cj.jdbc.Driver</driver-name>
+	<url>jdbc:mysql://47.106.107.133:3306/warehousedb?useUnicode=true&amp;characterEncoding=gbk</url>
+	<user-name>root</user-name>
+	<user-password>3306</user-password>
+</db>
